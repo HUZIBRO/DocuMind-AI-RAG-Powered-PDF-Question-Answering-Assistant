@@ -17,7 +17,7 @@ llm = ChatGroq(
 # Streamlit App UI
 # =========================================
 st.set_page_config(page_title="RAG PDF QA", page_icon="📄", layout="centered")
-st.title("📄 RAG-based PDF Question Answering Assistant")
+st.title("📄 DocuMind AI: RAG-Powered PDF Question Answering Assistant")
 
 # Initialize session state variables (to avoid re-running)
 if "summary" not in st.session_state:
@@ -197,3 +197,4 @@ if uploaded_file is not None:
 
 else:
     st.info("📌 Upload a PDF and enter a question to get started.")
+
