@@ -1,7 +1,7 @@
 # 📄 DocuMind AI: RAG-Powered PDF Question Answering Assistant
 
 **PDF Insight AI** is an intelligent PDF assistant built with **LangChain**, **LLMs**, and **Retrieval-Augmented Generation (RAG)**.  
-It allows you to **summarize**, **explore**, and **ask questions** about your documents — all while ensuring answers are grounded in the uploaded content.
+It allows you to **summarize**, **explore**, and **ask questions** about your document — all while ensuring answers are grounded in the uploaded content.
 
 ---
 
