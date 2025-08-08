@@ -8,7 +8,7 @@ It allows you to **summarize**, **explore**, and **ask questions** about your do
 ## 🚀 Features
 
 - 📤 **Upload PDF** – Works with any text-based PDF document.
-- **Prompt Engineering** – Instruction-tuned responses with predefined and custom formats.
+- 🧠 **Prompt Engineering – Instruction-tuned responses with predefined and custom formats.** 
 - 🧩 **Chunking** – Splits documents into smaller, overlapping chunks for better context retrieval.  
 - 🧠 **Embedding + Vector Store** – Uses **HuggingFace sentence transformers** + **FAISS** for fast semantic search.  
 - 📑 **About the File** – Generates a concise summary of the uploaded document.  
