@@ -7,10 +7,10 @@ It allows you to **summarize**, **explore**, and **ask questions** about your do
 
 ## 🚀 Features
 
-- 📤 **Upload PDF** – Works with any text-based PDF document.
-- 🧠 **Prompt Engineering – Instruction-tuned responses with predefined and custom formats.** 
+- 📤 **Upload PDF** – Works with any text-based PDF document.  
+- 🧠 **Prompt Engineering** – Instruction-tuned responses with predefined and custom formats.  
 - 🧩 **Chunking** – Splits documents into smaller, overlapping chunks for better context retrieval.  
-- 🧠 **Embedding + Vector Store** – Uses **HuggingFace sentence transformers** + **FAISS** for fast semantic search.  
+- 🧠 **Embedding + Vector Store** – Uses **HuggingFace sentence transformers** + **Chroma** for fast, single-document semantic search optimized for QA systems.  
 - 📑 **About the File** – Generates a concise summary of the uploaded document.  
 - 💡 **Recommended Questions** – Suggests relevant questions to guide exploration.  
 - 🎯 **Customizable Instructions** – Choose from predefined answer styles or create your own.  
